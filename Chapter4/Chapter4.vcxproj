@@ -132,8 +132,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chapter4.cpp" />
+    <ClCompile Include="Final_1.cpp" />
+    <ClCompile Include="Final_2.cpp" />
     <ClCompile Include="IFQuiz.cpp" />
     <ClCompile Include="Static_Cast.cpp" />
+    <ClCompile Include="Strings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

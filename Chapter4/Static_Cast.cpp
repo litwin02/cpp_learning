@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 
 //This program test conversion between data types
@@ -20,3 +21,4 @@ int main()
 	double num{ 9.83 };
 	print(num);
 }
+#endif

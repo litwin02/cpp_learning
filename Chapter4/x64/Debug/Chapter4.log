@@ -1,6 +1,2 @@
-﻿  Chapter4.cpp
-  IFQuiz.cpp
-  Static_Cast.cpp
-C:\Users\wizhe\Desktop\osobiste projekty\cpp_learning\Chapter4\Static_Cast.cpp(21,8): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-  Generowanie kodu...
+﻿  Final_2.cpp
   Chapter4.vcxproj -> C:\Users\wizhe\Desktop\osobiste projekty\cpp_learning\Chapter4\x64\Debug\Chapter4.exe
